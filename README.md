@@ -17,7 +17,7 @@ A responsive profile dashboard built with **HTML, CSS, and Sass**, featuring soc
 
 ## Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+[View Live Demo](https://esraasaeed-dev.github.io/profile-dashboard/)
 
 ## Learning Context
 
